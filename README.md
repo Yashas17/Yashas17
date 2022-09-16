@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yashas17
 - 👀 I’m interested in Computational Fluid Dynamics
-- 🌱 I’m currently learning OpenFOAM
-- 📫 How to reach me: y.gandhi17@gmail.com
+- 📫 How to reach me: y.gandhi@tum.de
 
 <!---
 Yashas17/Yashas17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
